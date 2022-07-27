@@ -40,12 +40,12 @@
   - [ ] [Cpu Caches and Why You Care](https://youtu.be/WDIkqP4JbkE)
   - [ ] [How the best hacker learn their craft](https://youtu.be/6vj96QetfTg)
   - [ ] [Flutter course by google devs](https://youtu.be/CPmN4-i9zC8)
-  - [ ] [The art of solving novel problems](https://youtu.be/wGP1Tm8xyPI)
+  - [X] [The art of solving novel problems](https://youtu.be/wGP1Tm8xyPI)
   - [ ] [Introduction to machine learning (Deep learning)](https://youtu.be/iOh7QUZGyiU)
   - [ ] [Realtime chat application with django channels](https://youtu.be/4t11vbDlyvs)
   - [ ] [Programming creatures which gets evolved](https://youtu.be/N3tRFayqVtk)
   - [ ] [How do hacker hide themselves](https://www.youtube.com/watch?v=BWVyp0wYpgA)
-  - [ ] [Lesssons learn from geohot](https://youtu.be/2dijE1JXyEA)
+  - [X] [Lesssons learn from geohot](https://youtu.be/2dijE1JXyEA)
   - [ ] [The evils of non native programming](https://youtu.be/tK50z_gUpZI)
   - [ ] [Guide to becoming a better programmer](https://jeffandcaseyshow.com/jacs_0004_0016)
   - [ ] [Scaling instagram infrastucture](https://youtu.be/hnpzNAPiC0E)
@@ -54,8 +54,8 @@
   - [ ] [Hacking django channels for fun and profit](https://youtu.be/DK74vjuhpuM)
   - [ ] [FAANG System design interview](https://youtu.be/DK74vjuhpuM)
   - [ ] [Scaling hotstar.com for 25 million concurrent viewers](https://youtu.be/QjvyiyH4rr0)
-  - [ ] [Django in Depth - PyCon 2015 by James Bennet](https://youtu.be/tkwZ1jG3XgA)
-  - [ ] [David Beazley: Discovering Python - PyCon 2014](https://youtu.be/RZ4Sn-Y7AP8)
+  - [X] [Django in Depth - PyCon 2015 by James Bennet](https://youtu.be/tkwZ1jG3XgA)
+  - [X] [David Beazley: Discovering Python - PyCon 2014](https://youtu.be/RZ4Sn-Y7AP8)
 
 
 - Courses
