@@ -21,11 +21,11 @@
   - [ ] The Pragmatic Programmer
   - [ ] Test-Driven Development in Django
   - [ ] Software Architectures (DISSERTATION)
-  - [ ] [The architecture of open source application][http://aosabook.org/en/index.html#aosa2]
+  - [ ] [The architecture of open source application](http://aosabook.org/en/index.html#aosa2)
   - [ ] [500 lines or less](http://aosabook.org/en/index.html#500lines)
 
 - Repositories
-  - [] [How web works](https://github.com/vasanthk/how-web-works)
+  - [ ] [How web works](https://github.com/vasanthk/how-web-works)
   - [ ] [Professional Programming](https://github.com/charlax/professional-programming)
   - [ ] [Python to Rust](https://github.com/rochacbruno/py2rs)
 - Talks
