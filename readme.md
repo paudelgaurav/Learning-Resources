@@ -1,4 +1,4 @@
-# List of resources I have read or plan to read
+# List of resources I plan to read
 
 - Articles
   - [ ] [Going deep to understand requests](https://medium.com/@anthonypjshaw/python-requests-deep-dive-a0a5c5c1e093)
