@@ -1,7 +1,7 @@
 # List of resources I have read or plan to read
 
 - Articles
-  - [] [Going deep to understand requests](https://medium.com/@anthonypjshaw/python-requests-deep-dive-a0a5c5c1e093)
+  - [x] [Going deep to understand requests](https://medium.com/@anthonypjshaw/python-requests-deep-dive-a0a5c5c1e093)
   
   - [] [50 ideas that changed my life](https://perell.com/essay/50-ideas-that-changed-my-life/)
 
