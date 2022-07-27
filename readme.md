@@ -32,7 +32,6 @@
 - Talks
   - [ ] [Learn Programming Lex Fridman podcast](https://www.youtube.com/watch?v=j-BVv0XW1H8)
   - [ ] [Clean Code by uncle ben](https://youtu.be/7EmboKQH8lM)
-  - [ ] [Computer science with Math]()
   - [ ] [The Man Who Revolutionized Computer Science With Math](https://youtu.be/rkZzg7Vowao)
   - [ ] [DjangoCon 2018 - Representing Hierarchies in Relational Databases](https://youtu.be/CRxjoklS8v0)
   - [ ] [Build your own async](https://youtu.be/Y4Gt3Xjd7G8)
