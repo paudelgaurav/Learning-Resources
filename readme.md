@@ -12,7 +12,8 @@
   - [ ] [Write an SQL query builder in 150 lines of Python](https://death.andgravity.com/query-builder-how)
 
   - [ ] [Learn by reading code](https://death.andgravity.com/stdlib)
-
+  - [ ] [Dependency Injection with Go-Fx](https://medium.com/wesionary-team/dependency-injection-with-go-fx-b698a6585cf0)
+ 
 - Books
   - [ ] Art of Computer programming
   - [ ] Clean Code A Handbook of Agile Software
