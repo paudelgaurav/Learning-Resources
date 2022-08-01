@@ -4,7 +4,7 @@
   - [ ] [Going deep to understand requests](https://medium.com/@anthonypjshaw/python-requests-deep-dive-a0a5c5c1e093)
   - [x] [50 ideas that changed my life](https://perell.com/essay/50-ideas-that-changed-my-life/)
   - [ ] [Structure code in large programs](https://death.andgravity.com/aosa)
-  - [ ] [When to use classes ](https://death.andgravity.com/same-arguments)
+  - [x] [When to use classes ](https://death.andgravity.com/same-arguments)
   - [ ] [Write an SQL query builder in 150 lines of Python](https://death.andgravity.com/query-builder-how)
   - [ ] [Learn by reading code](https://death.andgravity.com/stdlib)
   - [ ] [Dependency Injection with Go-Fx](https://medium.com/wesionary-team/dependency-injection-with-go-fx-b698a6585cf0)
