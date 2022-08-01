@@ -2,13 +2,17 @@
 
 - Articles
   - [ ] [Going deep to understand requests](https://medium.com/@anthonypjshaw/python-requests-deep-dive-a0a5c5c1e093)
-  - [ ] [50 ideas that changed my life](https://perell.com/essay/50-ideas-that-changed-my-life/)
+  - [x] [50 ideas that changed my life](https://perell.com/essay/50-ideas-that-changed-my-life/)
   - [ ] [Structure code in large programs](https://death.andgravity.com/aosa)
   - [ ] [When to use classes ](https://death.andgravity.com/same-arguments)
   - [ ] [Write an SQL query builder in 150 lines of Python](https://death.andgravity.com/query-builder-how)
   - [ ] [Learn by reading code](https://death.andgravity.com/stdlib)
   - [ ] [Dependency Injection with Go-Fx](https://medium.com/wesionary-team/dependency-injection-with-go-fx-b698a6585cf0)
   - [ ] [How Django Uses Metaclasses For Data Modelling](https://medium.com/swlh/how-django-use-data-descriptors-metaclasses-for-data-modelling-14b307280fce)
+  - [ ] [The Price of Discipline](https://perell.com/essay/the-price-of-discipline/)
+  - [ ] [Coolest Things I Learned in 2019](https://perell.com/essay/2019-12-11-coolest-things-i-learned-in-2019/)
+  - [ ] [What the Hell is Going On?](https://perell.com/essay/what-the-hell-is-going-on/)
+
 - Books
   - [ ] Art of Computer programming
   - [ ] Clean Code A Handbook of Agile Software
