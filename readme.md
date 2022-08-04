@@ -23,6 +23,7 @@
   - [ ] Software Architectures (DISSERTATION)
   - [ ] [The architecture of open source application](http://aosabook.org/en/index.html#aosa2)
   - [ ] [500 lines or less](http://aosabook.org/en/index.html#500lines)
+  - [ ] [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 
 - Repositories
   - [ ] [How web works](https://github.com/vasanthk/how-web-works)
