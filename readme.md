@@ -26,7 +26,7 @@
   - [ ] [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 
 - Repositories
-  - [ ] [How web works](https://github.com/vasanthk/how-web-works)
+  - [x] [How web works](https://github.com/vasanthk/how-web-works)
   - [ ] [Professional Programming](https://github.com/charlax/professional-programming)
   - [ ] [Python to Rust](https://github.com/rochacbruno/py2rs)
 - Talks
