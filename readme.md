@@ -10,8 +10,8 @@
   - [ ] [Dependency Injection with Go-Fx](https://medium.com/wesionary-team/dependency-injection-with-go-fx-b698a6585cf0)
   - [ ] [How Django Uses Metaclasses For Data Modelling](https://medium.com/swlh/how-django-use-data-descriptors-metaclasses-for-data-modelling-14b307280fce)
   - [x] [The Price of Discipline](https://perell.com/essay/the-price-of-discipline/)
-  - [ ] [Coolest Things I Learned in 2019](https://perell.com/essay/2019-12-11-coolest-things-i-learned-in-2019/)
-  - [ ] [What the Hell is Going On?](https://perell.com/essay/what-the-hell-is-going-on/)
+  - [x] [Coolest Things I Learned in 2019](https://perell.com/essay/2019-12-11-coolest-things-i-learned-in-2019/)
+  - [x] [What the Hell is Going On?](https://perell.com/essay/what-the-hell-is-going-on/)
 
 - Books
   - [ ] Art of Computer programming
