@@ -29,7 +29,7 @@
   - [x] [How web works](https://github.com/vasanthk/how-web-works)
   - [ ] [Professional Programming](https://github.com/charlax/professional-programming)
   - [ ] [Python to Rust](https://github.com/rochacbruno/py2rs)
-  - [ ] [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/.md)
+  - [ ] [Uber Go Style Guide](https://github.com/uber-go/guide)
 - Talks
   - [ ] [Learn Programming Lex Fridman podcast](https://www.youtube.com/watch?v=j-BVv0XW1H8)
   - [ ] [Clean Code by uncle ben](https://youtu.be/7EmboKQH8lM)
