@@ -62,6 +62,6 @@
 - Courses
   - [ ] [Fundamentals of networking for effective backend design](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/)
   - [ ] [Backend Master class (Golang, postgres, kuburnetes)](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes)
-  - [ ] [Relational Databases designs](https://www.udemy.com/course/relational-database-design/)
+  - [X] [Relational Databases designs](https://www.udemy.com/course/relational-database-design/)
   - [ ] [Google Cloud Associate Cloud Engineer](https://youtu.be/jpno8FSqpc8)
   - [ ] [Flutter Course for Beginners](https://youtu.be/VPvVD8t02U8)
