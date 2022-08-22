@@ -12,7 +12,7 @@
   - [x] [The Price of Discipline](https://perell.com/essay/the-price-of-discipline/)
   - [x] [Coolest Things I Learned in 2019](https://perell.com/essay/2019-12-11-coolest-things-i-learned-in-2019/)
   - [x] [What the Hell is Going On?](https://perell.com/essay/what-the-hell-is-going-on/)
-  - [ ] [Api evolution the right way](https://emptysqua.re/blog/api-evolution-the-right-way/)
+  - [x] [Api evolution the right way](https://emptysqua.re/blog/api-evolution-the-right-way/)
 - Books
   - [ ] Art of Computer programming
   - [ ] Clean Code A Handbook of Agile Software
