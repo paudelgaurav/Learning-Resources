@@ -6,7 +6,7 @@
   - [ ] [Structure code in large programs](https://death.andgravity.com/aosa)
   - [x] [When to use classes ](https://death.andgravity.com/same-arguments)
   - [ ] [Write an SQL query builder in 150 lines of Python](https://death.andgravity.com/query-builder-how)
-  - [ ] [Learn by reading code](https://death.andgravity.com/stdlib)
+  - [x] [Learn by reading code](https://death.andgravity.com/stdlib)
   - [ ] [Dependency Injection with Go-Fx](https://medium.com/wesionary-team/dependency-injection-with-go-fx-b698a6585cf0)
   - [ ] [How Django Uses Metaclasses For Data Modelling](https://medium.com/swlh/how-django-use-data-descriptors-metaclasses-for-data-modelling-14b307280fce)
   - [x] [The Price of Discipline](https://perell.com/essay/the-price-of-discipline/)
