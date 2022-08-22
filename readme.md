@@ -66,3 +66,4 @@
   - [X] [Relational Databases designs](https://www.udemy.com/course/relational-database-design/)
   - [ ] [Google Cloud Associate Cloud Engineer](https://youtu.be/jpno8FSqpc8)
   - [ ] [Flutter Course for Beginners](https://youtu.be/VPvVD8t02U8)
+  - [ ] [CS22 - Python Data Structures/Algorithms](https://youtube.com/playlist?list=PLtbC5OfOR8aqA6CJwWTRUITgGpUy1Umr3)
