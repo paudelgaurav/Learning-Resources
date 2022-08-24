@@ -31,6 +31,7 @@
   - [ ] [Python to Rust](https://github.com/rochacbruno/py2rs)
   - [ ] [Uber Go Style Guide](https://github.com/uber-go/guide)
   - [ ] [Gopher reading list](https://github.com/enocom/gopher-reading-list)
+  - [ ] [System Design](https://github.com/karanpratapsingh/system-design)
 - Talks
   - [x] [Learn Programming Lex Fridman podcast](https://www.youtube.com/watch?v=j-BVv0XW1H8)
   - [ ] [Clean Code by uncle ben](https://youtu.be/7EmboKQH8lM)
