@@ -51,7 +51,7 @@
   - [X] [Lesssons learn from geohot](https://youtu.be/2dijE1JXyEA)
   - [ ] [The evils of non native programming](https://youtu.be/tK50z_gUpZI)
   - [ ] [Guide to becoming a better programmer](https://jeffandcaseyshow.com/jacs_0004_0016)
-  - [ ] [Scaling instagram infrastucture](https://youtu.be/hnpzNAPiC0E)
+  - [X] [Scaling instagram infrastucture](https://youtu.be/hnpzNAPiC0E)
   - [ ] [DevTooling them all by Hussein Nasser](https://youtube.com/playlist?list=PLQnljOFTspQX9U79P6eD_V9USIUTE9yAD)
   - [ ] [Netflix guide to microservices](https://youtu.be/CZ3wIuvmHeM)
   - [ ] [Hacking django channels for fun and profit](https://youtu.be/DK74vjuhpuM)
