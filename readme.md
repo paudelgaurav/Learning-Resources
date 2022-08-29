@@ -59,6 +59,7 @@
   - [ ] [Scaling hotstar.com for 25 million concurrent viewers](https://youtu.be/QjvyiyH4rr0)
   - [X] [Django in Depth - PyCon 2015 by James Bennet](https://youtu.be/tkwZ1jG3XgA)
   - [X] [David Beazley: Discovering Python - PyCon 2014](https://youtu.be/RZ4Sn-Y7AP8)
+  - [ ] [Richard Feynman Computer Science Lecture - Hardware, Software and Heuristics](https://youtu.be/EKWGGDXe5MA)
 
 
 - Courses
