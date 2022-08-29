@@ -38,7 +38,7 @@
   - [ ] [The Man Who Revolutionized Computer Science With Math](https://youtu.be/rkZzg7Vowao)
   - [ ] [DjangoCon 2018 - Representing Hierarchies in Relational Databases](https://youtu.be/CRxjoklS8v0)
   - [ ] [Build your own async](https://youtu.be/Y4Gt3Xjd7G8)
-  - [ ] [The pragmatic programmer](https://youtu.be/4yQtztHmct4)
+  - [x] [The pragmatic programmer](https://youtu.be/4yQtztHmct4)
   - [ ] [What Programming is Never About](https://youtu.be/Lzc3HcIgXis)
   - [ ] [Cpu Caches and Why You Care](https://youtu.be/WDIkqP4JbkE)
   - [ ] [How the best hacker learn their craft](https://youtu.be/6vj96QetfTg)
