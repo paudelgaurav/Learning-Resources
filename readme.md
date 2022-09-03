@@ -9,6 +9,7 @@
   - [X] [Learn by reading code](https://death.andgravity.com/stdlib)
   - [ ] [Dependency Injection with Go-Fx](https://medium.com/wesionary-team/dependency-injection-with-go-fx-b698a6585cf0)
   - [ ] [How Django Uses Metaclasses For Data Modelling](https://medium.com/swlh/how-django-use-data-descriptors-metaclasses-for-data-modelling-14b307280fce)
+  - [ ] [Full text search in postgresql](https://www.postgresql.org/docs/current/textsearch.html)
   - [X] [The Price of Discipline](https://perell.com/essay/the-price-of-discipline/)
   - [X] [Coolest Things I Learned in 2019](https://perell.com/essay/2019-12-11-coolest-things-i-learned-in-2019/)
   - [X] [What the Hell is Going On?](https://perell.com/essay/what-the-hell-is-going-on/)
@@ -60,6 +61,7 @@
   - [X] [Django in Depth - PyCon 2015 by James Bennet](https://youtu.be/tkwZ1jG3XgA)
   - [X] [David Beazley: Discovering Python - PyCon 2014](https://youtu.be/RZ4Sn-Y7AP8)
   - [ ] [Richard Feynman Computer Science Lecture - Hardware, Software and Heuristics](https://youtu.be/EKWGGDXe5MA)
+  - [ ] [Full text search in postgresql](https://www.youtube.com/watch?v=2OY4tE2TrcI)
 
 
 - Courses
