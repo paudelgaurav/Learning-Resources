@@ -16,7 +16,7 @@
   - [X] [Api evolution the right way](https://emptysqua.re/blog/api-evolution-the-right-way/)
   - [ ] [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life)
   - [ ] [Authorization in microservices](https://www.alexanderlolis.com/authorization-in-a-microservices-world)
-  - [ ] [40 Lessons From 40 Years](https://schlaf.medium.com/40-lessons-from-40-years-de39d2c622d6)
+  - [X] [40 Lessons From 40 Years](https://schlaf.medium.com/40-lessons-from-40-years-de39d2c622d6)
   - [ ] [Pleasure of learning](https://supermemo.guru/wiki/Pleasure_of_learning)
   - [ ] [Toxic memory](https://supermemo.guru/wiki/Toxic_memory)
   - [ ] [How can I read faster](https://supermemo.guru/wiki/How_can_I_read_faster%3F)
