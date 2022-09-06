@@ -14,6 +14,8 @@
   - [X] [Coolest Things I Learned in 2019](https://perell.com/essay/2019-12-11-coolest-things-i-learned-in-2019/)
   - [X] [What the Hell is Going On?](https://perell.com/essay/what-the-hell-is-going-on/)
   - [X] [Api evolution the right way](https://emptysqua.re/blog/api-evolution-the-right-way/)
+  - [ ] [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life)
+  - [ ] [Authorization in microservices](https://www.alexanderlolis.com/authorization-in-a-microservices-world)
 - Books
   - [ ] Art of Computer programming
   - [ ] Clean Code A Handbook of Agile Software
