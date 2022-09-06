@@ -1,7 +1,7 @@
 # List of resources I plan to read
 
 - Articles
-  - [ ] [Going deep to understand requests](https://medium.com/@anthonypjshaw/python-requests-deep-dive-a0a5c5c1e093)
+  - [X] [Going deep to understand requests](https://medium.com/@anthonypjshaw/python-requests-deep-dive-a0a5c5c1e093)
   - [X] [50 ideas that changed my life](https://perell.com/essay/50-ideas-that-changed-my-life/)
   - [ ] [Structure code in large programs](https://death.andgravity.com/aosa)
   - [X] [When to use classes ](https://death.andgravity.com/same-arguments)
