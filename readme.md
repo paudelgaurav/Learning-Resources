@@ -68,7 +68,7 @@
   - [X] [Django in Depth - PyCon 2015 by James Bennet](https://youtu.be/tkwZ1jG3XgA)
   - [X] [David Beazley: Discovering Python - PyCon 2014](https://youtu.be/RZ4Sn-Y7AP8)
   - [ ] [Richard Feynman Computer Science Lecture - Hardware, Software and Heuristics](https://youtu.be/EKWGGDXe5MA)
-  - [ ] [Full text search in postgresql](https://www.youtube.com/watch?v=2OY4tE2TrcI)
+  - [ ] [Full text search](https://www.youtube.com/watch?v=2OY4tE2TrcI)
   - [ ] [Steve jobs on failure](https://youtu.be/zkTf0LmDqKI)
 
 
