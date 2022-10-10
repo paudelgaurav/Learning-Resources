@@ -33,6 +33,7 @@
   - [ ] [500 lines or less](http://aosabook.org/en/index.html#500lines)
   - [ ] [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
   - [ ] [Pro Git](https://git-scm.com/book/en/v2)
+  - [ ] Python 3 Object-oriented Programming
 
 - Repositories
   - [X] [How web works](https://github.com/vasanthk/how-web-works)
