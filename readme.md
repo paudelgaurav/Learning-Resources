@@ -17,7 +17,7 @@
   - [ ] [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life)
   - [ ] [Authorization in microservices](https://www.alexanderlolis.com/authorization-in-a-microservices-world)
   - [X] [40 Lessons From 40 Years](https://schlaf.medium.com/40-lessons-from-40-years-de39d2c622d6)
-  - [ ] [Pleasure of learning](https://supermemo.guru/wiki/Pleasure_of_learning)
+  - [X] [Pleasure of learning](https://supermemo.guru/wiki/Pleasure_of_learning)
   - [ ] [Toxic memory](https://supermemo.guru/wiki/Toxic_memory)
   - [X] [How can I read faster](https://supermemo.guru/wiki/How_can_I_read_faster%3F)
   - [ ] [Planning a perfect productive day without stress](https://supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress)
