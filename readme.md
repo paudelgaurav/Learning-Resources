@@ -3,6 +3,7 @@
 - Articles
   - [X] [Going deep to understand requests](https://medium.com/@anthonypjshaw/python-requests-deep-dive-a0a5c5c1e093)
   - [X] [50 ideas that changed my life](https://perell.com/essay/50-ideas-that-changed-my-life/)
+  - [ ] [Effective GO](https://go.dev/doc/effective_go)
   - [ ] [Structure code in large programs](https://death.andgravity.com/aosa)
   - [X] [When to use classes ](https://death.andgravity.com/same-arguments)
   - [ ] [Write an SQL query builder in 150 lines of Python](https://death.andgravity.com/query-builder-how)
