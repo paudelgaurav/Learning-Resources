@@ -74,7 +74,7 @@
   - [ ] [Richard Feynman Computer Science Lecture - Hardware, Software and Heuristics](https://youtu.be/EKWGGDXe5MA)
   - [ ] [Full text search](https://www.youtube.com/watch?v=2OY4tE2TrcI)
   - [ ] [Steve jobs on failure](https://youtu.be/zkTf0LmDqKI)
-  - [ ] [John Carmack on Lex Fridman Podcast](https://youtu.be/I845O57ZSy4)
+  - [X] [John Carmack on Lex Fridman Podcast](https://youtu.be/I845O57ZSy4)
 
 - Courses
   - [ ] [Fundamentals of networking for effective backend design](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/)
