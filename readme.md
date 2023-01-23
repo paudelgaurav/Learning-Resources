@@ -83,3 +83,18 @@
   - [ ] [Google Cloud Associate Cloud Engineer](https://youtu.be/jpno8FSqpc8)
   - [ ] [Flutter Course for Beginners](https://youtu.be/VPvVD8t02U8)
   - [ ] [CS22 - Python Data Structures/Algorithms](https://youtube.com/playlist?list=PLtbC5OfOR8aqA6CJwWTRUITgGpUy1Umr3)
+
+- Literature
+  - [ ] Crime And Punishment by Fyodor Dostoevsky
+  - [ ] Notes From Underground by Fyodor Dostoevsky
+  - [ ] The Idiot by Fyodor Dostoevsky
+  - [ ] The Brothers Karamazov by Fyodor Dostoevsky
+  - [ ] Nineteen Eighty-Four by George Orwell
+  - [X] The Alchemist by Paulo Coelho
+  - [X] A Hunger Artist by Franz Kafka
+  - [ ] The Art Of War by Sun Tzu
+  - [ ] Anna Karenina by Leo Tolstoy
+  - [ ] Dune by Frank Herbert
+  - [ ] Karna by  Nawaraj Lamsal
+  - [ ] Maharani by Chandra prakash baniya
+
