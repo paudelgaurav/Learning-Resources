@@ -22,7 +22,8 @@
   - [ ] [Toxic memory](https://supermemo.guru/wiki/Toxic_memory)
   - [X] [How can I read faster](https://supermemo.guru/wiki/How_can_I_read_faster%3F)
   - [ ] [Planning a perfect productive day without stress](https://supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress)
--  Tech Books
+
+- Tech Books
   - [ ] Art of Computer programming
   - [ ] Clean Code A Handbook of Agile Software
   - [ ] Andrew S. Tanenbaum - Modern Operating Systems
@@ -97,4 +98,3 @@
   - [ ] Dune by Frank Herbert
   - [ ] Karna by  Nawaraj Lamsal
   - [ ] Maharani by Chandra prakash baniya
-
