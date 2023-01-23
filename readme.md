@@ -22,7 +22,7 @@
   - [ ] [Toxic memory](https://supermemo.guru/wiki/Toxic_memory)
   - [X] [How can I read faster](https://supermemo.guru/wiki/How_can_I_read_faster%3F)
   - [ ] [Planning a perfect productive day without stress](https://supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress)
-- Books
+-  Tech Books
   - [ ] Art of Computer programming
   - [ ] Clean Code A Handbook of Agile Software
   - [ ] Andrew S. Tanenbaum - Modern Operating Systems
@@ -84,7 +84,7 @@
   - [ ] [Flutter Course for Beginners](https://youtu.be/VPvVD8t02U8)
   - [ ] [CS22 - Python Data Structures/Algorithms](https://youtube.com/playlist?list=PLtbC5OfOR8aqA6CJwWTRUITgGpUy1Umr3)
 
-- Literature
+- Literature Books
   - [ ] Crime And Punishment by Fyodor Dostoevsky
   - [ ] Notes From Underground by Fyodor Dostoevsky
   - [ ] The Idiot by Fyodor Dostoevsky
