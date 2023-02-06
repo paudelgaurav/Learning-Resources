@@ -86,7 +86,7 @@
   - [ ] [CS22 - Python Data Structures/Algorithms](https://youtube.com/playlist?list=PLtbC5OfOR8aqA6CJwWTRUITgGpUy1Umr3)
 
 - Literature Books
-  - [ ] Crime And Punishment by Fyodor Dostoevsky
+  - [X] Crime And Punishment by Fyodor Dostoevsky
   - [ ] Notes From Underground by Fyodor Dostoevsky
   - [ ] The Idiot by Fyodor Dostoevsky
   - [ ] The Brothers Karamazov by Fyodor Dostoevsky
