@@ -74,7 +74,7 @@
   - [X] [David Beazley: Discovering Python - PyCon 2014](https://youtu.be/RZ4Sn-Y7AP8)
   - [ ] [Richard Feynman Computer Science Lecture - Hardware, Software and Heuristics](https://youtu.be/EKWGGDXe5MA)
   - [ ] [Full text search](https://www.youtube.com/watch?v=2OY4tE2TrcI)
-  - [ ] [Steve jobs on failure](https://youtu.be/zkTf0LmDqKI)
+  - [X] [Steve jobs on failure](https://youtu.be/zkTf0LmDqKI)
   - [X] [John Carmack on Lex Fridman Podcast](https://youtu.be/I845O57ZSy4)
 
 - Courses
