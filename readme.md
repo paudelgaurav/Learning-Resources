@@ -59,7 +59,7 @@
   - [ ] [Introduction to machine learning (Deep learning)](https://youtu.be/iOh7QUZGyiU)
   - [X] [Realtime chat application with django channels](https://youtu.be/4t11vbDlyvs)
   - [ ] [Programming creatures which gets evolved](https://youtu.be/N3tRFayqVtk)
-  - [ ] [How do hacker hide themselves](https://www.youtube.com/watch?v=BWVyp0wYpgA)
+  - [X] [How do hacker hide themselves](https://www.youtube.com/watch?v=BWVyp0wYpgA)
   - [X] [Lesssons learn from geohot](https://youtu.be/2dijE1JXyEA)
   - [ ] [The evils of non native programming](https://youtu.be/tK50z_gUpZI)
   - [ ] [Guide to becoming a better programmer](https://jeffandcaseyshow.com/jacs_0004_0016)
