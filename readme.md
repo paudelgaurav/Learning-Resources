@@ -29,10 +29,9 @@
   - [ ] Andrew S. Tanenbaum - Modern Operating Systems
   - [ ] Architectural Styles and the Design of Network-based 
   - [ ] The Pragmatic Programmer
-  - [ ] Test-Driven Development in Django
+  - [X] Test-Driven Development in Django
   - [ ] Software Architectures (DISSERTATION)
   - [ ] [The architecture of open source application](http://aosabook.org/en/index.html#aosa2)
-  - [ ] [500 lines or less](http://aosabook.org/en/index.html#500lines)
   - [ ] [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
   - [ ] [Pro Git](https://git-scm.com/book/en/v2)
   - [ ] Python 3 Object-oriented Programming
