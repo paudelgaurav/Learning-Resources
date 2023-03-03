@@ -86,14 +86,15 @@
 
 - Literature Books
   - [X] Crime And Punishment by Fyodor Dostoevsky
-  - [ ] Notes From Underground by Fyodor Dostoevsky
-  - [ ] The Idiot by Fyodor Dostoevsky
-  - [ ] The Brothers Karamazov by Fyodor Dostoevsky
-  - [ ] Nineteen Eighty-Four by George Orwell
+  - [X] Myth = Mithya by Devdutt Pattanaik
   - [X] The Alchemist by Paulo Coelho
   - [X] A Hunger Artist by Franz Kafka
+  - [ ] The Idiot by Fyodor Dostoevsky
+  - [ ] The Brothers Karamazov by Fyodor Dostoevsky
+  - [ ] The Master and Margarita by Mikhail Bulgakov
+  - [ ] Nineteen Eighty-Four by George Orwell
   - [ ] The Art Of War by Sun Tzu
   - [ ] Anna Karenina by Leo Tolstoy
   - [ ] Dune by Frank Herbert
-  - [ ] Karna by  Nawaraj Lamsal
-  - [ ] Maharani by Chandra prakash baniya
+  - [ ] The Picture of Dorian Gray by Oscar Wilde
+ 
