@@ -19,7 +19,6 @@
   - [ ] [Authorization in microservices](https://www.alexanderlolis.com/authorization-in-a-microservices-world)
   - [X] [40 Lessons From 40 Years](https://schlaf.medium.com/40-lessons-from-40-years-de39d2c622d6)
   - [X] [Pleasure of learning](https://supermemo.guru/wiki/Pleasure_of_learning)
-  - [ ] [Toxic memory](https://supermemo.guru/wiki/Toxic_memory)
   - [X] [How can I read faster](https://supermemo.guru/wiki/How_can_I_read_faster%3F)
   - [X] [Planning a perfect productive day without stress](https://supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress)
 
@@ -46,7 +45,6 @@
 - Talks
   - [X] [Learn Programming Lex Fridman podcast](https://www.youtube.com/watch?v=j-BVv0XW1H8)
   - [X] [Clean Code by uncle ben](https://youtu.be/7EmboKQH8lM)
-  - [ ] [The Man Who Revolutionized Computer Science With Math](https://youtu.be/rkZzg7Vowao)
   - [X] [DjangoCon 2018 - Representing Hierarchies in Relational Databases](https://youtu.be/CRxjoklS8v0)
   - [ ] [Build your own async](https://youtu.be/Y4Gt3Xjd7G8)
   - [X] [The pragmatic programmer](https://youtu.be/4yQtztHmct4)
@@ -57,10 +55,8 @@
   - [X] [The art of solving novel problems](https://youtu.be/wGP1Tm8xyPI)
   - [ ] [Introduction to machine learning (Deep learning)](https://youtu.be/iOh7QUZGyiU)
   - [X] [Realtime chat application with django channels](https://youtu.be/4t11vbDlyvs)
-  - [ ] [Programming creatures which gets evolved](https://youtu.be/N3tRFayqVtk)
   - [X] [How do hacker hide themselves](https://www.youtube.com/watch?v=BWVyp0wYpgA)
   - [X] [Lesssons learn from geohot](https://youtu.be/2dijE1JXyEA)
-  - [ ] [The evils of non native programming](https://youtu.be/tK50z_gUpZI)
   - [ ] [Guide to becoming a better programmer](https://jeffandcaseyshow.com/jacs_0004_0016)
   - [X] [Scaling instagram infrastucture](https://youtu.be/hnpzNAPiC0E)
   - [ ] [DevTooling them all by Hussein Nasser](https://youtube.com/playlist?list=PLQnljOFTspQX9U79P6eD_V9USIUTE9yAD)
@@ -71,14 +67,12 @@
   - [X] [Django in Depth - PyCon 2015 by James Bennet](https://youtu.be/tkwZ1jG3XgA)
   - [X] [Deep Inside Django's ORM: How Django Builds Queries](https://youtu.be/OEN5wONsaYU)
   - [X] [David Beazley: Discovering Python - PyCon 2014](https://youtu.be/RZ4Sn-Y7AP8)
-  - [ ] [Richard Feynman Computer Science Lecture - Hardware, Software and Heuristics](https://youtu.be/EKWGGDXe5MA)
-  - [ ] [Full text search](https://www.youtube.com/watch?v=2OY4tE2TrcI)
-  - [X] [Steve jobs on failure](https://youtu.be/zkTf0LmDqKI)
+  - [X] [Full text search](https://www.youtube.com/watch?v=2OY4tE2TrcI)
   - [X] [John Carmack on Lex Fridman Podcast](https://youtu.be/I845O57ZSy4)
 
 - Courses
   - [ ] [Fundamentals of networking for effective backend design](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/)
-  - [ ] [Backend Master class (Golang, postgres, kuburnetes)](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes)
+  - [X] [Backend Master class (Golang, postgres, kuburnetes)](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes)
   - [X] [Relational Databases designs](https://www.udemy.com/course/relational-database-design/)
   - [ ] [Google Cloud Associate Cloud Engineer](https://youtu.be/jpno8FSqpc8)
   - [ ] [Flutter Course for Beginners](https://youtu.be/VPvVD8t02U8)
