@@ -8,7 +8,7 @@
   - [X] [When to use classes ](https://death.andgravity.com/same-arguments)
   - [ ] [Write an SQL query builder in 150 lines of Python](https://death.andgravity.com/query-builder-how)
   - [X] [Learn by reading code](https://death.andgravity.com/stdlib)
-  - [ ] [Dependency Injection with Go-Fx](https://medium.com/wesionary-team/dependency-injection-with-go-fx-b698a6585cf0)
+  - [X] [Dependency Injection with Go-Fx](https://medium.com/wesionary-team/dependency-injection-with-go-fx-b698a6585cf0)
   - [ ] [How Django Uses Metaclasses For Data Modelling](https://medium.com/swlh/how-django-use-data-descriptors-metaclasses-for-data-modelling-14b307280fce)
   - [X] [Full text search in postgresql](https://www.postgresql.org/docs/current/textsearch.html)
   - [X] [The Price of Discipline](https://perell.com/essay/the-price-of-discipline/)
