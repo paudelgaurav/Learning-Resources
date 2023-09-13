@@ -91,5 +91,5 @@
   - [ ] Anna Karenina by Leo Tolstoy
   - [ ] Dune by Frank Herbert
   - [ ] The Picture of Dorian Gray by Oscar Wilde
-  - [ ] Harry Potter and the Philosopher's Stone J. K. Rowling
+  - [ ] Harry Potter and the Philosopher's Stone by J. K. Rowling
  
