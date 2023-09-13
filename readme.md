@@ -15,7 +15,7 @@
   - [X] [Coolest Things I Learned in 2019](https://perell.com/essay/2019-12-11-coolest-things-i-learned-in-2019/)
   - [X] [What the Hell is Going On?](https://perell.com/essay/what-the-hell-is-going-on/)
   - [X] [Api evolution the right way](https://emptysqua.re/blog/api-evolution-the-right-way/)
-  - [ ] [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life)
+  - [X] [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life)
   - [ ] [Authorization in microservices](https://www.alexanderlolis.com/authorization-in-a-microservices-world)
   - [X] [40 Lessons From 40 Years](https://schlaf.medium.com/40-lessons-from-40-years-de39d2c622d6)
   - [X] [Pleasure of learning](https://supermemo.guru/wiki/Pleasure_of_learning)
