@@ -24,16 +24,16 @@
 
 - Tech Books
   - [ ] Art of Computer programming
-  - [ ] Clean Code A Handbook of Agile Software
+  - [X] Clean Code A Handbook of Agile Software
   - [ ] Andrew S. Tanenbaum - Modern Operating Systems
   - [ ] Architectural Styles and the Design of Network-based 
-  - [ ] The Pragmatic Programmer
+  - [X] The Pragmatic Programmer
   - [X] Test-Driven Development in Django
   - [ ] Software Architectures (DISSERTATION)
   - [ ] [The architecture of open source application](http://aosabook.org/en/index.html#aosa2)
   - [ ] [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
   - [ ] [Pro Git](https://git-scm.com/book/en/v2)
-  - [ ] Python 3 Object-oriented Programming
+  - [X] Python 3 Object-oriented Programming
 
 - Repositories
   - [X] [How web works](https://github.com/vasanthk/how-web-works)
@@ -50,16 +50,15 @@
   - [X] [The pragmatic programmer](https://youtu.be/4yQtztHmct4)
   - [X] [What Programming is Never About](https://youtu.be/Lzc3HcIgXis)
   - [X] [Cpu Caches and Why You Care](https://youtu.be/WDIkqP4JbkE)
-  - [ ] [How the best hacker learn their craft](https://youtu.be/6vj96QetfTg)
+  - [X] [How the best hacker learn their craft](https://youtu.be/6vj96QetfTg)
   - [ ] [Flutter course by google devs](https://youtu.be/CPmN4-i9zC8)
   - [X] [The art of solving novel problems](https://youtu.be/wGP1Tm8xyPI)
   - [ ] [Introduction to machine learning (Deep learning)](https://youtu.be/iOh7QUZGyiU)
   - [X] [Realtime chat application with django channels](https://youtu.be/4t11vbDlyvs)
   - [X] [How do hacker hide themselves](https://www.youtube.com/watch?v=BWVyp0wYpgA)
   - [X] [Lesssons learn from geohot](https://youtu.be/2dijE1JXyEA)
-  - [ ] [Guide to becoming a better programmer](https://jeffandcaseyshow.com/jacs_0004_0016)
+  - [X] [Guide to becoming a better programmer](https://jeffandcaseyshow.com/jacs_0004_0016)
   - [X] [Scaling instagram infrastucture](https://youtu.be/hnpzNAPiC0E)
-  - [ ] [DevTooling them all by Hussein Nasser](https://youtube.com/playlist?list=PLQnljOFTspQX9U79P6eD_V9USIUTE9yAD)
   - [ ] [Netflix guide to microservices](https://youtu.be/CZ3wIuvmHeM)
   - [ ] [Hacking django channels for fun and profit](https://youtu.be/DK74vjuhpuM)
   - [ ] [FAANG System design interview](https://youtu.be/DK74vjuhpuM)
@@ -71,7 +70,7 @@
   - [X] [John Carmack on Lex Fridman Podcast](https://youtu.be/I845O57ZSy4)
 
 - Courses
-  - [ ] [Fundamentals of networking for effective backend design](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/)
+  - [X] [Fundamentals of networking for effective backend design](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/)
   - [X] [Backend Master class (Golang, postgres, kuburnetes)](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes)
   - [X] [Relational Databases designs](https://www.udemy.com/course/relational-database-design/)
   - [ ] [Google Cloud Associate Cloud Engineer](https://youtu.be/jpno8FSqpc8)
@@ -85,11 +84,11 @@
   - [X] A Hunger Artist by Franz Kafka
   - [ ] The Idiot by Fyodor Dostoevsky
   - [ ] The Brothers Karamazov by Fyodor Dostoevsky
-  - [ ] The Master and Margarita by Mikhail Bulgakov
-  - [ ] Nineteen Eighty-Four by George Orwell
+  - [X] The Master and Margarita by Mikhail Bulgakov
+  - [X] Nineteen Eighty-Four by George Orwell
   - [ ] The Art Of War by Sun Tzu
   - [ ] Anna Karenina by Leo Tolstoy
-  - [ ] Dune by Frank Herbert
+  - [X] Dune by Frank Herbert
   - [ ] The Picture of Dorian Gray by Oscar Wilde
-  - [ ] Harry Potter and the Philosopher's Stone by J. K. Rowling
+  - [X] Harry Potter and the Philosopher's Stone by J. K. Rowling
  
