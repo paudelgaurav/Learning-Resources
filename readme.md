@@ -42,6 +42,8 @@
   - [ ] [Uber Go Style Guide](https://github.com/uber-go/guide)
   - [ ] [Gopher reading list](https://github.com/enocom/gopher-reading-list)
   - [ ] [System Design](https://github.com/karanpratapsingh/system-design)
+  - [ ] [DevOps RoadMap](https://github.com/milanm/DevOps-Roadmap)
+  
 - Talks
   - [X] [Learn Programming Lex Fridman podcast](https://www.youtube.com/watch?v=j-BVv0XW1H8)
   - [X] [Clean Code by uncle ben](https://youtu.be/7EmboKQH8lM)
