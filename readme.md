@@ -23,18 +23,33 @@
   - [X] [Planning a perfect productive day without stress](https://supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress)
 
 - Tech Books
-  - [ ] Art of Computer programming
-  - [X] Clean Code A Handbook of Agile Software
-  - [ ] Code: The Hidden Language of Computer Hardware and Software
-  - [ ] Andrew S. Tanenbaum - Modern Operating Systems
+  - [ ] [Art of Computer programming](https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1)
+  - [X] [Clean Code A Handbook of Agile Software](https://www.goodreads.com/book/show/3735293-clean-code)
+  - [ ] [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code)
+  - [ ] [Andrew S. Tanenbaum - Modern Operating Systems](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
   - [ ] Architectural Styles and the Design of Network-based 
-  - [X] The Pragmatic Programmer
-  - [X] Test-Driven Development in Django
+  - [X] [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+  - [X] [Test-Driven Development in Django](https://www.goodreads.com/book/show/17912811-test-driven-development-with-python)
   - [ ] Software Architectures (DISSERTATION)
   - [ ] [The architecture of open source application](http://aosabook.org/en/index.html#aosa2)
   - [ ] [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
   - [ ] [Pro Git](https://git-scm.com/book/en/v2)
-  - [X] Python 3 Object-oriented Programming
+  - [X] [Python 3 Object-oriented Programming](https://www.goodreads.com/book/show/8679996-python-3-object-oriented-programming)
+      
+- Literature Books
+  - [X] [Crime And Punishment by Fyodor Dostoevsky](https://www.goodreads.com/book/show/7144.Crime_and_Punishment)
+  - [X] [Myth = Mithya by Devdutt Pattanaik](https://www.goodreads.com/book/show/1486976.Myth_Mithya)
+  - [X] [The Alchemist by Paulo Coelho](https://www.goodreads.com/book/show/18144590-the-alchemist)
+  - [X] [A Hunger Artist by Franz Kafka](https://www.goodreads.com/book/show/141352.A_Hunger_Artist)
+  - [ ] [The Idiot by Fyodor Dostoevsky](https://www.goodreads.com/book/show/12505.The_Idiot)
+  - [ ] [The Brothers Karamazov by Fyodor Dostoevsky](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)
+  - [X] [The Master and Margarita by Mikhail Bulgakov](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
+  - [X] [Nineteen Eighty-Four by George Orwell](https://www.goodreads.com/book/show/61439040-1984)
+  - [ ] [The Art Of War by Sun Tzu](https://www.goodreads.com/book/show/10534.The_Art_of_War)
+  - [ ] [Anna Karenina by Leo Tolstoy](https://www.goodreads.com/book/show/15823480-anna-karenina)
+  - [X] [Dune by Frank Herbert](https://www.goodreads.com/book/show/44767458-dune)
+  - [ ] [The Picture of Dorian Gray by Oscar Wilde](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray)
+  - [X] [Harry Potter and the Philosopher's Stone by J. K. Rowling](https://www.goodreads.com/book/show/72193.Harry_Potter_and_the_Philosopher_s_Stone)
 
 - Repositories
   - [X] [How web works](https://github.com/vasanthk/how-web-works)
@@ -79,19 +94,3 @@
   - [ ] [Google Cloud Associate Cloud Engineer](https://youtu.be/jpno8FSqpc8)
   - [ ] [Flutter Course for Beginners](https://youtu.be/VPvVD8t02U8)
   - [ ] [CS22 - Python Data Structures/Algorithms](https://youtube.com/playlist?list=PLtbC5OfOR8aqA6CJwWTRUITgGpUy1Umr3)
-
-- Literature Books
-  - [X] Crime And Punishment by Fyodor Dostoevsky
-  - [X] Myth = Mithya by Devdutt Pattanaik
-  - [X] The Alchemist by Paulo Coelho
-  - [X] A Hunger Artist by Franz Kafka
-  - [ ] The Idiot by Fyodor Dostoevsky
-  - [ ] The Brothers Karamazov by Fyodor Dostoevsky
-  - [X] The Master and Margarita by Mikhail Bulgakov
-  - [X] Nineteen Eighty-Four by George Orwell
-  - [ ] The Art Of War by Sun Tzu
-  - [ ] Anna Karenina by Leo Tolstoy
-  - [X] Dune by Frank Herbert
-  - [ ] The Picture of Dorian Gray by Oscar Wilde
-  - [X] Harry Potter and the Philosopher's Stone by J. K. Rowling
- 
