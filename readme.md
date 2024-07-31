@@ -25,6 +25,7 @@
 - Tech Books
   - [ ] Art of Computer programming
   - [X] Clean Code A Handbook of Agile Software
+  - [ ] Code: The Hidden Language of Computer Hardware and Software
   - [ ] Andrew S. Tanenbaum - Modern Operating Systems
   - [ ] Architectural Styles and the Design of Network-based 
   - [X] The Pragmatic Programmer
