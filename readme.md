@@ -59,6 +59,7 @@
   - [ ] [Gopher reading list](https://github.com/enocom/gopher-reading-list)
   - [ ] [System Design](https://github.com/karanpratapsingh/system-design)
   - [ ] [DevOps RoadMap](https://github.com/milanm/DevOps-Roadmap)
+  - [ ] [Go Training](https://github.com/ardanlabs/gotraining/)
   
 - Talks
   - [X] [Learn Programming Lex Fridman podcast](https://www.youtube.com/watch?v=j-BVv0XW1H8)
