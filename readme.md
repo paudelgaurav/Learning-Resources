@@ -43,7 +43,7 @@
   - [X] [A Hunger Artist by Franz Kafka](https://www.goodreads.com/book/show/141352.A_Hunger_Artist)
   - [ ] [The Idiot by Fyodor Dostoevsky](https://www.goodreads.com/book/show/12505.The_Idiot)
   - [ ] [The Brothers Karamazov by Fyodor Dostoevsky](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)
-  - [ ] [The Master and Margarita by Mikhail Bulgakov](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita) (Currently Reading)
+  - [X] [The Master and Margarita by Mikhail Bulgakov](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
   - [X] [Nineteen Eighty-Four by George Orwell](https://www.goodreads.com/book/show/61439040-1984)
   - [ ] [The Art Of War by Sun Tzu](https://www.goodreads.com/book/show/10534.The_Art_of_War)
   - [ ] [Anna Karenina by Leo Tolstoy](https://www.goodreads.com/book/show/15823480-anna-karenina)
