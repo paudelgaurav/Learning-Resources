@@ -20,6 +20,7 @@
   - [X] [Pleasure of learning](https://supermemo.guru/wiki/Pleasure_of_learning)
   - [X] [How can I read faster](https://supermemo.guru/wiki/How_can_I_read_faster%3F)
   - [X] [Planning a perfect productive day without stress](https://supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress)
+  - [ ] [Building a small language model](https://devopslearning.medium.com/welcome-to-day-1-of-21-days-of-building-a-small-language-model-10-essential-neural-network-ba467e6d5136)
 
 - Tech Books
   - [ ] [Art of Computer programming](https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1)
