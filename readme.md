@@ -26,6 +26,7 @@
   - [ ] [Database sharding](https://planetscale.com/blog/database-sharding)
   - [ ] [Gin is a very bad software library](https://eblog.fly.dev/ginbad.html)
   - [ ] [Backend from the beginning series](https://eblog.fly.dev/index.html#backend-from-the-beginning-a-complete-guide-to-backend-development-in-go)
+  - [ ] [Fast docker builds](https://eblog.fly.dev/fastdocker.html)
 
 - Tech Books
   - [ ] [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063) Currently Reading
