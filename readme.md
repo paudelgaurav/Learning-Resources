@@ -28,7 +28,7 @@
   - [ ] [Backend from the beginning series](https://eblog.fly.dev/index.html#backend-from-the-beginning-a-complete-guide-to-backend-development-in-go)
 
 - Tech Books
-  - [ ] [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063)
+  - [ ] [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063) Currently Reading
   - [ ] [Art of Computer programming](https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1)
   - [X] [Clean Code: A Handbook of Agile Software](https://www.goodreads.com/book/show/3735293-clean-code)
   - [ ] [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code)
@@ -50,7 +50,7 @@
   - [X] [The Master and Margarita by Mikhail Bulgakov](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
   - [X] [Nineteen Eighty-Four by George Orwell](https://www.goodreads.com/book/show/61439040-1984)
   - [X] [Dune by Frank Herbert](https://www.goodreads.com/book/show/44767458-dune)
-  - [ ] [Sunya ko Mulya](https://www.goodreads.com/book/show/123172097)
+  - [ ] [Sunya ko Mulya](https://www.goodreads.com/book/show/123172097) Currently reading
   - [ ] [The Picture of Dorian Gray by Oscar Wilde](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray)
   - [ ] [The Idiot by Fyodor Dostoevsky](https://www.goodreads.com/book/show/12505.The_Idiot)
   - [ ] [Notes from Underground](https://www.goodreads.com/book/show/49455.Notes_from_Underground)
@@ -67,7 +67,7 @@
   - [ ] [System Design](https://github.com/karanpratapsingh/system-design)
   - [ ] [DevOps RoadMap](https://github.com/milanm/DevOps-Roadmap)
   - [ ] [Go Training](https://github.com/ardanlabs/gotraining/)
-  - [ ] https://gist.github.com/tmilos/f2f999b5839e2d42d751
+  - [ ] [MPTT Gist](https://gist.github.com/tmilos/f2f999b5839e2d42d751)
   
 - Talks and Videos
   - [X] [Learn Programming Lex Fridman podcast](https://www.youtube.com/watch?v=j-BVv0XW1H8)
