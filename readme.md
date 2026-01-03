@@ -23,6 +23,7 @@
   - [ ] [Building a small language model](https://devopslearning.medium.com/welcome-to-day-1-of-21-days-of-building-a-small-language-model-10-essential-neural-network-ba467e6d5136)
 
 - Tech Books
+  - [ ] [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063)
   - [ ] [Art of Computer programming](https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1)
   - [X] [Clean Code A Handbook of Agile Software](https://www.goodreads.com/book/show/3735293-clean-code)
   - [ ] [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code)
